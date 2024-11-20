@@ -3,4 +3,4 @@ kind: Kustomization
 resources:
 - gotk-components.yaml
 - gotk-sync.yaml
-- ../../../apps/my-app/kustomization.yaml
+- ../../../apps/my-app/
